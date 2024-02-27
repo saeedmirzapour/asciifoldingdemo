@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "title": {
+      "type": "text",
+      "analyzer": "asciifolding_analyzer"
+    }
+  }
+}
